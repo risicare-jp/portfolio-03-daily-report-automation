@@ -2,7 +2,7 @@
 
 **Three F&B locations report through three different tools. One bilingual digest at 06:00 every day. Severity flagged against last year same day — the comparison F&B operators actually trust. AI-written, but anomaly detection is deterministic.**
 
-▶︎ **[Watch the 90-second demo on Loom](LOOM_URL_TBD)** — see a multi-location daily digest get assembled and routed to Slack and Notion, end to end.
+▶︎ **[Watch the 90-second demo on Loom](https://www.loom.com/share/43f5eeb9be514fce8ac7fcd097e49b2c)** — see a multi-location daily digest get assembled and routed to Slack and Notion, end to end.
 
 > *As a former heavy-industry QA welder in nuclear power plant maintenance and a Vancouver front-of-house manager, I bring a zero-defect mindset to bilingual multi-location operations. An area manager who reads three daily reports across three tools spends thirty minutes a day finding the one thing that matters. This pipeline finds it for her.*
 
