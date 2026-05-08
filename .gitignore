@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+
+# Internal virtual-org records — never publish (secretary notes, decisions, TODOs)
+.company/
+
+.DS_Store
+Thumbs.db
+
+node_modules/
+npm-debug.log*
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# n8n local
+.n8n/

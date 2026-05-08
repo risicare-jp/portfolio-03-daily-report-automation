@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-05-04",
+    "location": { "id": "A-Vancouver-Downtown", "name": "Vancouver Downtown" },
+    "sales": 4812,
+    "waste": 312,
+    "complaints": 0,
+    "sales_yoy_baseline": 4900,
+    "trailing_avg": 5143,
+    "baseline_used": "yoy",
+    "baseline_value": 4900,
+    "severity": "green",
+    "flags": [],
+    "shift_notes": "Tuesday steady no incidents"
+  },
+  {
+    "date": "2026-05-04",
+    "location": { "id": "B-Burnaby-Metrotown", "name": "Burnaby Metrotown" },
+    "sales": 2650,
+    "waste": 980,
+    "complaints": 2,
+    "sales_yoy_baseline": 3500,
+    "trailing_avg": 3497,
+    "baseline_used": "yoy",
+    "baseline_value": 3500,
+    "severity": "red",
+    "flags": [
+      { "severity": "red", "rule": "sales_major_drop", "ratio": 0.757, "threshold": 0.80, "baseline": 3500, "baseline_kind": "yoy" },
+      { "severity": "orange", "rule": "waste_high", "pct": 37.0, "threshold_pct": 10 },
+      { "severity": "orange", "rule": "complaints_present", "count": 2 }
+    ],
+    "shift_notes": "Walk-in cooler died ~4pm. Lost 3 prep batches. Dinner service significantly impaired - turned away 12 reservations. 2 customers complained about shellfish allergen disclosure."
+  },
+  {
+    "date": "2026-05-04",
+    "location": { "id": "C-Richmond-Aberdeen", "name": "Richmond Aberdeen" },
+    "sales": 5204,
+    "waste": 720,
+    "complaints": 0,
+    "sales_yoy_baseline": 5300,
+    "trailing_avg": 5359,
+    "baseline_used": "yoy",
+    "baseline_value": 5300,
+    "severity": "orange",
+    "flags": [
+      { "severity": "orange", "rule": "waste_high", "pct": 13.8, "threshold_pct": 10 }
+    ],
+    "shift_notes": "Walk-in freezer compressor noise reported by closing manager. Waste up - discarded prepped items as precaution. Service was normal."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-05-04",
+    "location": { "id": "A-Vancouver-Downtown", "name": "Vancouver Downtown" },
+    "sales": 5200,
+    "waste": 320,
+    "complaints": 0,
+    "sales_yoy_baseline": 5100,
+    "trailing_avg": 5143,
+    "baseline_used": "yoy",
+    "baseline_value": 5100,
+    "severity": "green",
+    "flags": [],
+    "shift_notes": "Tuesday steady no incidents"
+  },
+  {
+    "date": "2026-05-04",
+    "location": { "id": "B-Burnaby-Metrotown", "name": "Burnaby Metrotown" },
+    "sales": 3600,
+    "waste": 280,
+    "complaints": 0,
+    "sales_yoy_baseline": 3550,
+    "trailing_avg": 3497,
+    "baseline_used": "yoy",
+    "baseline_value": 3550,
+    "severity": "green",
+    "flags": [],
+    "shift_notes": "Smooth dinner service. Mall foot traffic normal."
+  },
+  {
+    "date": "2026-05-04",
+    "location": { "id": "C-Richmond-Aberdeen", "name": "Richmond Aberdeen" },
+    "sales": 5400,
+    "waste": 410,
+    "complaints": 0,
+    "sales_yoy_baseline": 5350,
+    "trailing_avg": 5359,
+    "baseline_used": "yoy",
+    "baseline_value": 5350,
+    "severity": "green",
+    "flags": [],
+    "shift_notes": "Standard Tuesday. No issues."
+  }
+]
