@@ -261,4 +261,4 @@ If you run a multi-location Japanese F&B chain in North America, or you are scop
 
 - **Upwork**: https://www.upwork.com/freelancers/~011e69140153120f93
 - **Email**: risicare929@gmail.com
-- **Notion case study**: _(URL TBD on 2026-05-08)_
+- **Notion case study**: https://leeward-yard-638.notion.site/Multi-location-Daily-Report-Automation-Portfolio-Case-Study-35d0613449568070bc2ed2ea9dd5d3fb
